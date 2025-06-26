@@ -2,7 +2,7 @@
   "name": "netbeans-darcula",
   "displayName": "Darcula Theme - NetBeans Inspired",
   "description": "A dark theme for Visual Studio Code inspired by the Darcula color scheme from NetBeans. Eye comforting and feel like coding at NetBeans",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "JomCode",
   "engines": {
     "vscode": "^1.101.0"
