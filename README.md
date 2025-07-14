@@ -4,7 +4,7 @@ Hello! I'm Jom, and this is a VS Code theme I created based on the Darcula theme
 
 ## Why I Made This
 
-I wanted a theme that is really eye comforting like Darcula from Netbeans but I couldn't find an exact match in the VS Code marketplace—so I built one!
+I wanted a theme that is really eye comforting like Darcula from Netbeans but I couldn't find an exact match in the VS Code marketplace so I built on my own version inspired from Darcula NetBeans.
 
 ## How to Install
 

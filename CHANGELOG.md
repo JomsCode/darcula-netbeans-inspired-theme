@@ -20,4 +20,8 @@
 
 - Tweaked variable.readonly color for better readability in Darcula theme.
 
+## [0.0.3] – 2025-07-15
+
+- Tweaked variable.readonly color for better eye comfortability
+
 ---

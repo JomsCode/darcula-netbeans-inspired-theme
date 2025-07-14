@@ -105,7 +105,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "variable": "#F8F8F2",
-    "variable.readonly": "#A9B7C6", //previous color = #6272A4
+    "variable.readonly": "#4EC9B0", //previous color = #6272A4 -> #A9B7C6
     "parameter": "#8BE9FD",
     "property": "#F8F8F2",
     "function": "#50FA7B",
