@@ -69,16 +69,34 @@
         "foreground": "#8BE9FD"
       }
     },
+    // {
+    //   "scope": [
+    //     "entity.name.tag",
+    //     "punctuation.definition.tag",
+    //     "punctuation.separator",
+    //     "meta.tag",
+    //     "tag"
+    //   ],
+    //   "settings": {
+    //     "foreground": "#FF79C6"
+    //   }
+    // },
     {
+      "name": "HTML/JSX Tag",
+      "scope": ["entity.name.tag", "meta.tag", "punctuation.definition.tag"],
+      "settings": {
+        "foreground": "#A6E1FA"
+      }
+    },
+    {
+      "name": "HTML/JSX Attribute Name",
       "scope": [
-        "entity.name.tag",
-        "punctuation.definition.tag",
-        "punctuation.separator",
-        "meta.tag",
-        "tag"
+        "entity.other.attribute-name",
+        "entity.other.attribute-name.html",
+        "entity.other.attribute-name.jsx"
       ],
       "settings": {
-        "foreground": "#FF79C6"
+        "foreground": "#FAB387"
       }
     },
     {

@@ -20,7 +20,7 @@ This is a personal adaptation of the NetBeans Darcula theme. It is not affiliate
 
 ## Preview
 
-![Screenshot of theme](Screenshot.png)
+![Preview](https://github.com/JomsCode/darcula-netbeans-inspired-theme/raw/dd1cac508068a2a816d6db786df87a41efa254e2/Screenshot.png)
 
 ## License
 

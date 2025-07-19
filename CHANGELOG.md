@@ -22,6 +22,14 @@
 
 ## [0.0.3] – 2025-07-15
 
+### Color Adjustment
+
 - Tweaked variable.readonly color for better eye comfortability
+
+## [0.0.4] – 2025-07-19
+
+### HTML/JSX Color Adjustment
+
+- Updated HTML/JSX tag colors to a soothing cyan (#A6E1FA) and attribute colors to a warm peach (#FAB387) for better readability and eye comfort.
 
 ---
