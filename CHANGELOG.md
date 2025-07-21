@@ -32,4 +32,10 @@
 
 - Updated HTML/JSX tag colors to a soothing cyan (#A6E1FA) and attribute colors to a warm peach (#FAB387) for better readability and eye comfort.
 
+## [0.0.5] – 2025-07-21
+
+### HTML/JSX Element Attribute Color Adjustment
+
+- Adjusted HTML/JSX attribute color from #FAB387 to #FFA7C4 .
+
 ---
